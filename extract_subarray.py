@@ -17,5 +17,3 @@ while True :
     answer = input("Do you want to enter a new list (Enter 'Yes' or 'No'): ")
     if answer == "No" :
         break
-    
-        
